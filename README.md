@@ -52,8 +52,6 @@ Refer to the LICENSE file if included. Otherwise, use for educational and resear
 
 Inspired by foundational NLP literature and coursework materials; implemented using popular open-source Python libraries.
 
-If you want, I can tailor this further based on specific notebooks or additional details you provide. Would you like me to do that?
-
 [1] https://github.com/idj997/NLP
 [2] https://www.kdnuggets.com/10-github-repositories-to-master-natural-language-processing-nlp
 [3] https://github.com/sebastianruder/NLP-progress
