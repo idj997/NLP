@@ -44,9 +44,6 @@ jupyter notebook
 
 3. Open and run any notebook to explore different NLP techniques and assignments.
 
-## License
-
-Refer to the LICENSE file if included. Otherwise, use for educational and research purposes.
 
 ## Acknowledgments
 
